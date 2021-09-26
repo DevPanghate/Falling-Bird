@@ -32,7 +32,7 @@ number_of_birds = 2
 birdImg = pygame.image.load('bird.png')
 birdX = random.randint(0, 736)
 birdY = random.randint(30, 400)
-birdY_change = 2.25
+birdY_change = 2.5
 
 
 # display of falling bird
